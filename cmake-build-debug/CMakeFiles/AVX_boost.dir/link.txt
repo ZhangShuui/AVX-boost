@@ -1,0 +1,3 @@
+"D:\somethin\newClion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AVX_boost.dir/objects.a
+D:\somethin\mingw64\bin\ar.exe cr CMakeFiles\AVX_boost.dir/objects.a @CMakeFiles\AVX_boost.dir\objects1.rsp
+D:\somethin\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\AVX_boost.dir/objects.a -Wl,--no-whole-archive -o AVX_boost.exe -Wl,--out-implib,libAVX_boost.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AVX_boost.dir\linklibs.rsp

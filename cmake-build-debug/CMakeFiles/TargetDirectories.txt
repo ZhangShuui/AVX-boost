@@ -1,0 +1,3 @@
+C:/Users/zsr/CLionProjects/AVX boost/cmake-build-debug/CMakeFiles/AVX_boost.dir
+C:/Users/zsr/CLionProjects/AVX boost/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zsr/CLionProjects/AVX boost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
